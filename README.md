@@ -1,4 +1,8 @@
-- @rajaovi
-- @UI-Developer
-- @HTML5, CSS3, React Js, Angular Js
-- @orajacse@gmaill.com
+**RAJA O** _- Front End Developer_
+- HTML5
+- CSS 3
+- JavaScript
+- React JS
+- TypeScript
+- Angular JS
+- Vanilla JS
